@@ -6,8 +6,6 @@
 
 }
 
-
-
 body {
     background: rgba(224, 224, 224, 0.712);
     cursor: pointer;
@@ -18,7 +16,7 @@ body {
     padding: 15px 80px;
     background: white;
     box-shadow: 1px 1px 20px rgba(128, 128, 128, 0.366);
-    font-weight: 800;
+    font-weight: 800px;
     letter-spacing: 1px;
 }
 
@@ -102,9 +100,9 @@ h5 a {
 }
 
 
-.page2 {
+ .page2 {
     width: 100%;
-    height: 800px;
+    height: 1200px;
     position: absolute;
     background: rgba(79, 79, 79, 0.637);
     backdrop-filter: blur(4px);
@@ -121,14 +119,14 @@ h5 a {
     text-align: center;
     padding: 5px 10px;
 }
-
+ 
 .addnewtask-heading {
     float: left;
     border-bottom: 2px solid skyblue;
     color: black;
 }
 
-
+ 
 .cross {
     float: right;
     font-size: 32px;
@@ -154,9 +152,9 @@ h5 a {
     width: 100%;
     margin: 20px 0px;
     padding: 12px 20px;
-}
+} 
 
-.addTaskbtn {
+ .addTaskbtn {
     float: right;
     padding: 8px 30px;
     background: skyblue;
@@ -164,19 +162,19 @@ h5 a {
     border: 2px solid skyblue;
     border-radius: 5px;
     margin: 10px 0px;
-}
+} 
 
 
 
 .page3container {
     width: 100%;
-    height: 100%;
+    height:100%;
     padding: 20px;
 }
 
 .page3Options {
     width: 400px;
-    margin-bottom: 30px;
+    margin-bottom: 60px;
     padding: 20px 0px;
 }
 
